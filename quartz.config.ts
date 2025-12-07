@@ -11,7 +11,7 @@ import { customMacros } from "./quartz/plugins/transformers/katex-macros"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "物理ノート",
+    pageTitle: "Physics Notes",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -75,7 +75,7 @@ const config: QuartzConfig = {
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({
-        renderEngine: "katex",
+        renderEngine: "mathjax",
         katexOptions:
           {
             macros: customMacros,
