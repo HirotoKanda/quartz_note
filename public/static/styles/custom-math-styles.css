@@ -1,0 +1,8 @@
+/* quartz/static/styles/custom-math-styles.css */
+
+@import url('https://fonts.cdnfonts.com/css/latin-modern-math');
+
+.katex {
+  font-family: 'Latin Modern Math', serif;
+  font-size: 1.2em; /* You can also adjust size here */
+}

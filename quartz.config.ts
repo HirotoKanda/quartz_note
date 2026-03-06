@@ -77,9 +77,8 @@ const config: QuartzConfig = {
       Plugin.Latex({
         renderEngine: "mathjax",
         katexOptions:
-          {
-            macros: customMacros,
-          },
+        {
+        },
       }),
     ],
     filters: [Plugin.RemoveDrafts()],

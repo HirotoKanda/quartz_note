@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Physics Notes</title>
+      <link>https://quartz-note-9xd.pages.dev</link>
+      <description>Last 10 notes on Physics Notes</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Remarks from Calculus</title>
+    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</link>
+    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</guid>
+    <description><![CDATA[ Derivatives Multivariable Derivatives Total Differentiability Given a real-scalar function f: \mathbb{R}^n \supset U \mapsto \mathbb{R}, and a point \mathbf{a} \in U \in \mathcal{O}, f is said to be differentiable at \mathbf{a} if there is a linear transformation L that satisfies the following limit... ]]></description>
+    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Manifolds</title>
+    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/manifold</link>
+    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/manifold</guid>
+    <description><![CDATA[ Manifolds Introduction A manifold is a convinient mathematical structure for doing calculus: derivatives, integration, etc. ]]></description>
+    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Basic Set Theory</title>
+    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/set-theory</link>
+    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/set-theory</guid>
+    <description><![CDATA[ Set theory gives us the fundamental way to discuss many mathematical objects used in physics. ]]></description>
+    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Topological Spaces</title>
+    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/topology</link>
+    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/topology</guid>
+    <description><![CDATA[ Topological Space Definition Given a set X, a pair of sets (X, \mathcal{O}) is called a topological space if \mathcal{O} is a family/ collection of subsets of X that satisfies the following properties: \emptyset \in \mathcal{O} and X \in \mathcal{O}. ]]></description>
+    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Textbooks</title>
+    <link>https://quartz-note-9xd.pages.dev/Textbooks</link>
+    <guid>https://quartz-note-9xd.pages.dev/Textbooks</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 19 Aug 2025 11:27:10 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://quartz-note-9xd.pages.dev/</link>
+    <guid>https://quartz-note-9xd.pages.dev/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 17 Aug 2025 15:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
