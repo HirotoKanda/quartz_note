@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "31749c4732462710",
+    "type": "split",
+    "children": [
+      {
+        "id": "f46d000e64f1ff72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78149be93d9a79a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "175bc72b6d5a12d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Special Relativity/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "b589a18427717d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Textbooks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Textbooks"
+            }
+          },
+          {
+            "id": "774ba839864c7fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analytical Mechanics/Lagrange Formalism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lagrange Formalism"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0add002ea9dc0d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fd1164d5ec545af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77f6429c07f23f0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9f92af1365b139c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dcaee8f33b7b9374",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b99e627a84dc0d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6082563b7b999e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9e022d944c5ee36",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "create a link.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for create a link"
+            }
+          },
+          {
+            "id": "aa1df3d84ce0b302",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "345f38a46e000e25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9ca76357d50efd4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "create a link.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of create a link"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "774ba839864c7fee",
+  "lastOpenFiles": [
+    "preamble.sty",
+    "macro.sty",
+    "Textbooks.md",
+    "Analytical Mechanics/Lagrange Formalism.md",
+    "Special Relativity/Introduction.md",
+    "Mathematical Remarks",
+    "Classical Field",
+    "Relativistic Quantum Mechanics",
+    "Quantum Mechanics",
+    "index.md",
+    "Welcome.md",
+    "create a link.md",
+    "Introduction",
+    "Analytical Mechanics",
+    "Special Relativity"
+  ]
+}
