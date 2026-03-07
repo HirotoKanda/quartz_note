@@ -6,10 +6,10 @@
       <description>Last 10 notes on Physics Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Remarks from Calculus</title>
+    <title>Notes on Calculus</title>
     <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</link>
     <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</guid>
-    <description><![CDATA[ Derivatives Multivariable Derivatives Total Differentiability Given a real-scalar function f: \mathbb{R}^n \supset U \mapsto \mathbb{R}, and a point \mathbf{a} \in U \in \mathcal{O}, f is said to be differentiable at \mathbf{a} if there is a linear transformation L that satisfies the following limit... ]]></description>
+    <description><![CDATA[ Derivatives Differentiability and Derivatives Total Derivative Consider a function f: \mathbb{R}^n \overset{\text{open}}{\supset} U \to \mathbb{R}^m. ]]></description>
     <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
   </item><item>
     <title>Manifolds</title>
@@ -34,7 +34,7 @@
     <link>https://quartz-note-9xd.pages.dev/Textbooks</link>
     <guid>https://quartz-note-9xd.pages.dev/Textbooks</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 Aug 2025 11:27:10 GMT</pubDate>
+    <pubDate>Tue, 19 Aug 2025 10:18:19 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz-note-9xd.pages.dev/</link>
