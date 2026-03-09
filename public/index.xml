@@ -6,6 +6,18 @@
       <description>Last 10 notes on Physics Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Algebra</title>
+    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/algebra</link>
+    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/algebra</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 07 Mar 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Linear Algebra</title>
+    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/vector</link>
+    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/vector</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 07 Mar 2026 15:00:00 GMT</pubDate>
+  </item><item>
     <title>Notes on Calculus</title>
     <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</link>
     <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</guid>
@@ -34,7 +46,7 @@
     <link>https://quartz-note-9xd.pages.dev/Textbooks</link>
     <guid>https://quartz-note-9xd.pages.dev/Textbooks</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 Aug 2025 10:18:19 GMT</pubDate>
+    <pubDate>Tue, 19 Aug 2025 11:27:10 GMT</pubDate>
   </item><item>
     <title>Home</title>
     <link>https://quartz-note-9xd.pages.dev/</link>
