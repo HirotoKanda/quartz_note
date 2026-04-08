@@ -1,0 +1,18 @@
+
+ Quartz v4.5.1  
+
+Cleaned output directory `public` in 5ms
+Found 8 input files from `content` in 3ms
+Parsing input files using 1 threads
+Parsed 8 Markdown files in 279ms
+Filtered out 0 files in 23μs
+Emitting files
+Emitted 46 files to `public` in 339ms
+Done processing 8 files in 627ms
+Started a Quartz server listening at http://localhost:8080
+TypeError: The argument 'format' must be one of: 'reset', 'bold', 'dim', 'italic', 'underline', 'blink', 'inverse', 'hidden', 'strikethrough', 'doubleunderline', 'black', 'red', 'green', 'yellow', 'blue', 'magenta', 'cyan', 'white', 'bgBlack', 'bgRed', 'bgGreen', 'bgYellow', 'bgBlue', 'bgMagenta', 'bgCyan', 'bgWhite', 'framed', 'overlined', 'gray', 'redBright', 'greenBright', 'yellowBright', 'blueBright', 'magentaBright', 'cyanBright', 'whiteBright', 'bgGray', 'bgRedBright', 'bgGreenBright', 'bgYellowBright', 'bgBlueBright', 'bgMagentaBright', 'bgCyanBright', 'bgWhiteBright'. Received 'grey'
+    at styleText (node:util:209:7)
+    at handleBuild (file:///Users/jai/quartz_note/quartz/cli/handlers.js:486:17)
+    at Object.handler (file:///Users/jai/quartz_note/quartz/bootstrap-cli.mjs:36:5) {
+  code: 'ERR_INVALID_ARG_VALUE'
+}

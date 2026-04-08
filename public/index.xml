@@ -6,10 +6,34 @@
       <description>Last 10 notes on Physics Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Newton-Raphson Method</title>
+    <link>https://quartz-note-9xd.pages.dev/Numerical-Simulations/newton</link>
+    <guid>https://quartz-note-9xd.pages.dev/Numerical-Simulations/newton</guid>
+    <description><![CDATA[ Newton-Raphson Method Take a vector-valued function f: \mathbb{R}^n \to \mathbb{R}^n, and assume that we want to find a root of f, that is, we look for x^* \in \mathbb{R}^n such that f(x^*) = \mathbf{0}. ]]></description>
+    <pubDate>Wed, 08 Apr 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Special Relativity</title>
+    <link>https://quartz-note-9xd.pages.dev/Physics/SR</link>
+    <guid>https://quartz-note-9xd.pages.dev/Physics/SR</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Boltzmann Equation</title>
+    <link>https://quartz-note-9xd.pages.dev/Physics/boltmann</link>
+    <guid>https://quartz-note-9xd.pages.dev/Physics/boltmann</guid>
+    <description><![CDATA[ Properties of Dirac Delta Function The Dirac delta function \delta^n(\mathbf{x}) in n-dimensional space is defined as a distribution that satisfies the following property: \int_{V} \phi(\mathbf{x}) \delta^n(\mathbf{x} - \mathbf{a}) d\mathbf{x} = \phi(\mathbf{a}) \in \mathbb{R} where \phi(\mathbf{x})... ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Textbook</title>
+    <link>https://quartz-note-9xd.pages.dev/Textbooks</link>
+    <guid>https://quartz-note-9xd.pages.dev/Textbooks</guid>
+    <description><![CDATA[ Math Set theory Linear algebra Axler - Linear Algebra Done Right Topological spaces Calculus/ Real analysis Terrence Tao - Analysis I, II Manifolds Measure theory Physics Relativity Schutz - A First Course in General Relativity Callahan - The Geometry of Spacetime Frankel - The Geometry of Physics A... ]]></description>
+    <pubDate>Sat, 21 Mar 2026 15:00:00 GMT</pubDate>
+  </item><item>
     <title>Algebra</title>
     <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/algebra</link>
     <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/algebra</guid>
-    <description><![CDATA[  ]]></description>
+    <description><![CDATA[ Groups Rings Algebra Fields. ]]></description>
     <pubDate>Sat, 07 Mar 2026 15:00:00 GMT</pubDate>
   </item><item>
     <title>Linear Algebra</title>
@@ -41,18 +65,6 @@
     <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/topology</guid>
     <description><![CDATA[ Topological Space Definition Given a set X, a pair of sets (X, \mathcal{O}) is called a topological space if \mathcal{O} is a family/ collection of subsets of X that satisfies the following properties: \emptyset \in \mathcal{O} and X \in \mathcal{O}. ]]></description>
     <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Textbooks</title>
-    <link>https://quartz-note-9xd.pages.dev/Textbooks</link>
-    <guid>https://quartz-note-9xd.pages.dev/Textbooks</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 Aug 2025 11:27:10 GMT</pubDate>
-  </item><item>
-    <title>Home</title>
-    <link>https://quartz-note-9xd.pages.dev/</link>
-    <guid>https://quartz-note-9xd.pages.dev/</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sun, 17 Aug 2025 15:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
