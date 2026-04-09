@@ -6,6 +6,12 @@
       <description>Last 10 notes on Physics Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Spherical Coordinates</title>
+    <link>https://quartz-note-9xd.pages.dev/Tedious-Calculations/sphere</link>
+    <guid>https://quartz-note-9xd.pages.dev/Tedious-Calculations/sphere</guid>
+    <description><![CDATA[ Coordinate Map We use the spherical coordinates (r,\theta,\phi) defined by \begin{dcases} x = r \sin \theta \cos \phi, \\ y = r \sin \theta \sin \phi, \\ z = r \cos \theta, \end{dcases} where r \ge 0, \qquad 0 \le \theta \le \pi, \qquad 0 \le \phi &lt; 2\pi. ]]></description>
+    <pubDate>Thu, 09 Apr 2026 15:00:00 GMT</pubDate>
+  </item><item>
     <title>Newton-Raphson Method</title>
     <link>https://quartz-note-9xd.pages.dev/Numerical-Simulations/newton</link>
     <guid>https://quartz-note-9xd.pages.dev/Numerical-Simulations/newton</guid>
@@ -19,9 +25,9 @@
     <pubDate>Sat, 21 Mar 2026 15:00:00 GMT</pubDate>
   </item><item>
     <title>Boltzmann Equation</title>
-    <link>https://quartz-note-9xd.pages.dev/Physics/boltmann</link>
-    <guid>https://quartz-note-9xd.pages.dev/Physics/boltmann</guid>
-    <description><![CDATA[ Properties of Dirac Delta Function The Dirac delta function \delta^n(\mathbf{x}) in n-dimensional space is defined as a distribution that satisfies the following property: \int_{V} \phi(\mathbf{x}) \delta^n(\mathbf{x} - \mathbf{a}) d\mathbf{x} = \phi(\mathbf{a}) \in \mathbb{R} where \phi(\mathbf{x})... ]]></description>
+    <link>https://quartz-note-9xd.pages.dev/Physics/boltzmann</link>
+    <guid>https://quartz-note-9xd.pages.dev/Physics/boltzmann</guid>
+    <description><![CDATA[  Setup Phase Space: \Gamma-Space and \mu-Space Consider a closed system of N particles in a region \Omega \subset \mathbb{R}^3. ]]></description>
     <pubDate>Sat, 21 Mar 2026 15:00:00 GMT</pubDate>
   </item><item>
     <title>Textbook</title>
@@ -58,12 +64,6 @@
     <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/set-theory</link>
     <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/set-theory</guid>
     <description><![CDATA[ Set theory gives us the fundamental way to discuss many mathematical objects used in physics. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Topological Spaces</title>
-    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/topology</link>
-    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/topology</guid>
-    <description><![CDATA[ Topological Space Definition Given a set X, a pair of sets (X, \mathcal{O}) is called a topological space if \mathcal{O} is a family/ collection of subsets of X that satisfies the following properties: \emptyset \in \mathcal{O} and X \in \mathcal{O}. ]]></description>
     <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
   </item>
     </channel>
