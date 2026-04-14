@@ -490,7 +490,7 @@ $$
 \end{aligned}
 $$
 
-To further proceed, we need to calculate the time derivatives $\dot{q}_r$, $\dot{q}_\theta$, $\dot{q}_\phi$, $\dot{\mu}_\nu$, and $\dot{\phi}_\nu$.
+To proceed further, we need to calculate the time derivatives $\dot{q}_r$, $\dot{q}_\theta$, $\dot{q}_\phi$, $\dot{\mu}_\nu$, and $\dot{\phi}_\nu$.
 
 
 ### Calculating Time Derivatives
@@ -763,7 +763,7 @@ $$
     + c \frac{\mu_\nu}{q_r^2} \frac{\partial}{\partial r} \left(
         q_r^2 \,  f
     \right)
-    + c \frac{q_r \sin \theta_\nu \cos \phi_\nu}{\sin q_\theta} \frac{\partial}{\partial \theta} \left(
+    + c \frac{\sin \theta_\nu \cos \phi_\nu}{q_r \sin q_\theta} \frac{\partial}{\partial \theta} \left(
         \sin q_\theta \,  f
     \right) \\
     & \qquad + c \frac{\sqrt{1 - \mu_\nu^2} \sin \phi_\nu}{q_r \sin q_\theta} \frac{\partial}{\partial \phi} \left(
@@ -784,7 +784,7 @@ $$
     + \frac{\mu_\nu}{r^2} \frac{\partial}{\partial r} \left(
         r^2 \,  f
     \right)
-    + \frac{r \sin \theta_\nu \cos \phi_\nu}{\sin \theta} \frac{\partial}{\partial \theta} \left(
+    + \frac{\sqrt{1 - \mu_\nu^2} \cos \phi_\nu}{r \sin \theta} \frac{\partial}{\partial \theta} \left(
         \sin \theta \,  f
     \right) \\
     & \qquad + \frac{\sqrt{1 - \mu_\nu^2} \sin \phi_\nu}{r \sin \theta} \frac{\partial}{\partial \phi} \left(
@@ -792,7 +792,7 @@ $$
      + \frac{1}{r}\frac{\partial}{\partial \mu_\nu} \left[
         (1 - \mu_\nu^2) \, f
     \right] \\
-    &\qquad \quad - \frac{(1 - \mu_\nu^2)^{1/2}}{r} \cot \theta \, \frac{\partial}{\partial \phi_\nu} \left(
+    &\qquad \quad - \frac{\sqrt{1 - \mu_\nu^2}}{r} \cot \theta \, \frac{\partial}{\partial \phi_\nu} \left(
             \sin \phi_\nu f
     \right) = C\left[ \frac{f}{c} \right]
 \end{aligned}
