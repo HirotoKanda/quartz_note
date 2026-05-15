@@ -1,3 +1,24 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// ---------------------------------------------------------------------------
+// Embedded mode — when this Quartz site is loaded inside the AstroAI desktop
+// app's Notes view (iframe URL carries ?embedded=true), Head.tsx adds an
+// `embedded` class to <html>. We use that to hide chrome that duplicates the
+// app's own UI. The public site is unaffected.
+//
+// Hidden in embedded mode: PageTitle (app provides its own title bar), the
+// Darkmode toggle (theme is app-owned), and the Footer (GitHub/Discord links
+// are public-site furniture).
+//
+// Kept visible: Search, Explorer, ReaderMode, TOC, Backlinks, ChatWidget.
+// ---------------------------------------------------------------------------
+html.embedded {
+  .page-title,
+  button.darkmode,
+  footer {
+    display: none;
+  }
+}
+

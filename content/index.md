@@ -6,27 +6,37 @@ tags: ["Homepage"]
 
 Work-in-progress study notes on math and physics, plus a daily-refreshed bulletin board for new arXiv papers relevant to my bachelor thesis (muonic Boltzmann collision term in CCSN).
 
+**Sections:** [Math](#math-stuff) · [Physics](#physics-stuff) · [arXiv bulletin](./arXiv/) · [Saved papers](./papers/) · [Textbooks](./Textbooks.md)
+
 If you have any question, [here](https://discord.com/users/475766542181859331) is my discord.
 
 <!-- AUTO-BULLETIN-START -->
 ## 📰 arXiv bulletin — 2026-05-14
 
-Window: last 2 day(s). Categories: `astro-ph.HE`, `astro-ph.SR`, `nucl-th`, `hep-ph`. 100 papers, 14 thesis-relevant.
+Window: last 2 day(s). Categories: `astro-ph.HE`, `astro-ph.SR`, `nucl-th`, `hep-ph`. 34 papers, 4 thesis-relevant.
 
 > [!tip] Suggested next learning step
-> **Read the abstract + intro of arXiv:2605.12356 and decide whether to save.** (~25 min)
+> **Read the abstract + intro of arXiv:2605.12791 and decide whether to save.** (~25 min)
 >
 > _Why:_ Top-scored paper today by keyword overlap — worth a quick triage even if not a direct hit.
 >
-> [2605.12356](https://arxiv.org/abs/2605.12356v1)
+> [2605.12791](https://arxiv.org/abs/2605.12791v1)
 
 ### Top picks
 
-1. **[Simulating the jittering-jets explosion mechanism: Supernova remnant G11.2-0.3](https://arxiv.org/abs/2605.12356v1)** · score 46 · `astro-ph.HE` · Muhammad Akashi et al. · _ccsn_×4, _supernovae?_×2, _core[-\s]?collapse_×1
-2. **[Interacting Binary Stars as Progenitors for Interacting Supernovae](https://arxiv.org/abs/2605.11635v1)** · score 42 · `astro-ph.HE` · Sung-Han Tsai et al. · _supernovae?_×6, _core[-\s]?collapse_×2, _ccsn_×1
-3. **[Limit on high energy neutrino emission from Abell 119 using IceCube 10-year muon track data](https://arxiv.org/abs/2605.11966v1)** · score 30 · `astro-ph.HE` · Sri Devaki Meduri et al. · _muons?_×4
+1. **[Jet Momentum Broadening in Viscous QCD Matter: A Moment Expansion Approach](https://arxiv.org/abs/2605.12791v1)**
+   We formulate out-of-equilibrium jet momentum broadening in QCD effective kinetic theory through a moment expansion of the medium distribution function, a method traditionally used to derive relativistic viscous hydrodynamics from kinetic t…
+   _score 18 · `hep-ph` · Isabella Danhoni et al. · kinetic theory×3_
 
-→ [Full bulletin](./arXiv/2026-05-14.md) · [All bulletins](./arXiv/)
+2. **[Guitar Nebula: extreme accelerator in extreme environment](https://arxiv.org/abs/2605.13697)**
+   Guitar nebula is a prime example of a class of bow-shock pulsar wind nebulae (PWNe), powered by a wind of a supersonically moving neutron star.
+   _score 13 · `astro-ph.HE` · Nikonorov, Igor Nikolaevich et al. · neutron star×2, supernova×1_
+
+3. **[Magnetar-powered long gamma-ray bursts and connection to superluminous supernovae and fast radio bursts](https://arxiv.org/abs/2605.13440)**
+   Based on X-ray afterglow observations from the Swift satellite, we construct a sample of 169 long gamma-ray bursts (LGRBs) exhibiting the canonical magnetar plateau signature, i.e., a plateau followed by a $t^{-2}$ decay.
+   _score 10 · `astro-ph.HE` · Zhou, Yu-Qi et al. · supernova×2_
+
+→ [Full bulletin](./arXiv/2026/05/2026-05-14.md) · [All bulletins](./arXiv/)
 <!-- AUTO-BULLETIN-END -->
 
 ## Math stuff

@@ -6,6 +6,30 @@
       <description>Last 10 notes on Physics Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>arXiv bulletin — 2026-05-14</title>
+    <link>https://quartz-note-9xd.pages.dev/arXiv/2026/05/2026-05-14</link>
+    <guid>https://quartz-note-9xd.pages.dev/arXiv/2026/05/2026-05-14</guid>
+    <description><![CDATA[ Window: last 2 day(s). Categories: astro-ph.HE, astro-ph.SR, nucl-th, hep-ph. 34 papers total, 4 thesis-relevant. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>arXiv Bulletin</title>
+    <link>https://quartz-note-9xd.pages.dev/arXiv/</link>
+    <guid>https://quartz-note-9xd.pages.dev/arXiv/</guid>
+    <description><![CDATA[ Daily sweeps of new arXiv papers in astro-ph.HE, astro-ph.SR, nucl-th, and hep-ph, scored by how closely they touch the bachelor thesis (muonic Boltzmann collision term, CCSN neutrino transport, RPA, chiral EFT). ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Home</title>
+    <link>https://quartz-note-9xd.pages.dev/</link>
+    <guid>https://quartz-note-9xd.pages.dev/</guid>
+    <description><![CDATA[ Work-in-progress study notes on math and physics, plus a daily-refreshed bulletin board for new arXiv papers relevant to my bachelor thesis (muonic Boltzmann collision term in CCSN). ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
+    <title>Saved papers</title>
+    <link>https://quartz-note-9xd.pages.dev/papers/</link>
+    <guid>https://quartz-note-9xd.pages.dev/papers/</guid>
+    <description><![CDATA[ Papers I’ve saved from the arXiv bulletin to read or revisit. ]]></description>
+    <pubDate>Wed, 13 May 2026 15:00:00 GMT</pubDate>
+  </item><item>
     <title>Spherical Coordinates</title>
     <link>https://quartz-note-9xd.pages.dev/Tedious-Calculations/sphere</link>
     <guid>https://quartz-note-9xd.pages.dev/Tedious-Calculations/sphere</guid>
@@ -41,30 +65,6 @@
     <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/algebra</guid>
     <description><![CDATA[ Groups Rings Algebra Fields. ]]></description>
     <pubDate>Sat, 07 Mar 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Linear Algebra</title>
-    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/vector</link>
-    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/vector</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 07 Mar 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Notes on Calculus</title>
-    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</link>
-    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/calculus</guid>
-    <description><![CDATA[ Derivatives Differentiability and Derivatives Total Derivative Consider a function f: \mathbb{R}^n \overset{\text{open}}{\supset} U \to \mathbb{R}^m. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Manifolds</title>
-    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/manifold</link>
-    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/manifold</guid>
-    <description><![CDATA[ Manifolds Introduction A manifold is a convinient mathematical structure for doing calculus: derivatives, integration, etc. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
-  </item><item>
-    <title>Basic Set Theory</title>
-    <link>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/set-theory</link>
-    <guid>https://quartz-note-9xd.pages.dev/Mathematical-Preliminaries/set-theory</guid>
-    <description><![CDATA[ Set theory gives us the fundamental way to discuss many mathematical objects used in physics. ]]></description>
-    <pubDate>Sun, 15 Feb 2026 15:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>

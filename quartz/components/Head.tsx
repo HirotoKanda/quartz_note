@@ -42,6 +42,22 @@ export default (() => {
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
+        {/*
+          Embedded-mode detection.
+
+          When this Quartz site is rendered inside the AstroAI desktop app's
+          Notes view, the iframe URL carries ?embedded=true. We persist that
+          flag to sessionStorage so SPA navigation within the iframe keeps the
+          embedded styling, and we add an `embedded` class to <html> early
+          (before stylesheets paint) so CSS in custom.scss can hide chrome that
+          duplicates the app's own UI (page title, darkmode toggle, footer).
+          No effect when the site is viewed in a normal browser.
+        */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var p=new URLSearchParams(location.search);if(p.get("embedded")==="true"){sessionStorage.setItem("embedded","true");}if(sessionStorage.getItem("embedded")==="true"){document.documentElement.classList.add("embedded");}}catch(e){}})();`,
+          }}
+        />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
